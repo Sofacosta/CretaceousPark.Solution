@@ -5,7 +5,7 @@
 ### By Sofia Acosta, Cat Denton and Saoud Rana
 ## Project Description
 
-Class practice: Building API 
+Epicodus practice: Building API 
 
 ## Technologies Used
  
